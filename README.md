@@ -39,9 +39,9 @@ Other: MS Office • Responsive Design • SEO Basics • UI/UX Principles
 ![Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalzafarr&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-- 💼 Freelance / Jobs: [Upwork, Fiverr ya Email link]
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/your-profile]
+- 💼 Freelance / Jobs: jamalzafar206@gmail.com
+- 📧 Email: jamalzafar206@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jamalzafar206/
 - 🌐 Portfolio: [agar website hai to link]
 
 Thanks for stopping by! Feel free to explore my repos, fork, star ⭐ or reach out for collaborations. Let's build something awesome! 😊🔥
