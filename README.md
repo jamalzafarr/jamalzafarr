@@ -35,7 +35,7 @@ Other: MS Office • Responsive Design • SEO Basics • UI/UX Principles
 - WordPress sites with custom plugins
 - Check pinned repos below!
 
-### 📈 GitHub Stats (optional – add karne ke liye code niche hai)
+### 📈 GitHub Stats 
 ![Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalzafarr&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
